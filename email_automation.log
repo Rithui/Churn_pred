@@ -1,0 +1,399 @@
+2025-05-13 09:31:02,301 - INFO - Starting email automation service
+2025-05-13 09:31:02,302 - INFO - Checking for new emails every 10 seconds
+2025-05-13 09:31:02,302 - INFO - --------------------------------------------------
+2025-05-13 09:31:07,356 - ERROR - Error classifying email: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000207986BC510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-13 09:31:09,820 - ERROR - Error classifying email: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000207986BFC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-13 09:31:12,361 - ERROR - Error classifying email: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000207986B8B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-13 09:31:14,995 - ERROR - Error classifying email: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000207986D6690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-13 09:31:17,656 - ERROR - Error classifying email: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000207986DD150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-13 09:31:23,570 - INFO - New Email: MLH's Spring 2025 Community Census is LIVE!
+2025-05-13 09:31:23,571 - INFO - From: Major League Hacking <hi@mlh.io>
+2025-05-13 09:31:23,571 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:23,571 - INFO - --------------------------------------------------
+2025-05-13 09:31:24,351 - INFO - New Email: Bolt Teams plans are finally here! Plus, design challenge results &
+ learn how to get paid as a Bolt creator!
+2025-05-13 09:31:24,351 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:31:24,352 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:24,352 - INFO - --------------------------------------------------
+2025-05-13 09:31:24,998 - INFO - New Email: This month: 2x tokens, $5k design contest, and the Chainsmokers
+ LIVE at our SF party.
+2025-05-13 09:31:24,998 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:31:24,999 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:24,999 - INFO - --------------------------------------------------
+2025-05-13 09:31:25,398 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:25,398 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:25,398 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:25,399 - INFO - --------------------------------------------------
+2025-05-13 09:31:29,636 - INFO - Email automation service stopped
+2025-05-13 09:31:37,769 - INFO - Starting email automation service
+2025-05-13 09:31:37,769 - INFO - Checking for new emails every 10 seconds
+2025-05-13 09:31:37,770 - INFO - --------------------------------------------------
+2025-05-13 09:31:41,331 - INFO - New Email: Security alert
+2025-05-13 09:31:41,332 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:41,332 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:41,332 - INFO - --------------------------------------------------
+2025-05-13 09:31:41,769 - INFO - New Email: Security alert
+2025-05-13 09:31:41,770 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:41,770 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:41,770 - INFO - --------------------------------------------------
+2025-05-13 09:31:42,184 - INFO - New Email: Security alert
+2025-05-13 09:31:42,184 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:42,185 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:42,186 - INFO - --------------------------------------------------
+2025-05-13 09:31:42,788 - INFO - New Email: Security alert
+2025-05-13 09:31:42,789 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:42,789 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:42,789 - INFO - --------------------------------------------------
+2025-05-13 09:31:43,694 - INFO - New Email: Bolt's GitHub integration is live + more on The World's Largest
+ Hackathon
+2025-05-13 09:31:43,694 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:31:43,694 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:43,695 - INFO - --------------------------------------------------
+2025-05-13 09:31:44,312 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:44,312 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:44,312 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:44,313 - INFO - --------------------------------------------------
+2025-05-13 09:31:44,881 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:44,882 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:44,883 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:44,883 - INFO - --------------------------------------------------
+2025-05-13 09:31:45,662 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:45,662 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:45,662 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:45,663 - INFO - --------------------------------------------------
+2025-05-13 09:31:46,103 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:46,103 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:46,104 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:46,104 - INFO - --------------------------------------------------
+2025-05-13 09:31:46,617 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:46,618 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:46,618 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:46,618 - INFO - --------------------------------------------------
+2025-05-13 09:31:47,419 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:47,419 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:47,420 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:47,420 - INFO - --------------------------------------------------
+2025-05-13 09:31:48,246 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:48,246 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:48,246 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:48,247 - INFO - --------------------------------------------------
+2025-05-13 09:31:48,748 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:48,748 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:48,748 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:48,749 - INFO - --------------------------------------------------
+2025-05-13 09:31:50,166 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:50,166 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:50,166 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:50,166 - INFO - --------------------------------------------------
+2025-05-13 09:31:50,665 - INFO - New Email: Security alert
+2025-05-13 09:31:50,666 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:50,666 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:50,667 - INFO - --------------------------------------------------
+2025-05-13 09:31:51,442 - INFO - New Email: Security alert
+2025-05-13 09:31:51,443 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:31:51,444 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:51,444 - INFO - --------------------------------------------------
+2025-05-13 09:31:52,522 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:52,522 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:52,523 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:52,523 - INFO - --------------------------------------------------
+2025-05-13 09:31:53,754 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:31:53,755 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:53,755 - INFO - --------------------------------------------------
+2025-05-13 09:31:58,542 - INFO - New Email: Base Batches #001: Build what matters. Change the game.
+2025-05-13 09:31:58,543 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:31:58,543 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:58,544 - INFO - --------------------------------------------------
+2025-05-13 09:31:59,498 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:31:59,499 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:31:59,500 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:31:59,500 - INFO - --------------------------------------------------
+2025-05-13 09:32:00,010 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:00,012 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:00,012 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:00,013 - INFO - --------------------------------------------------
+2025-05-13 09:32:00,840 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:00,841 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:00,842 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:00,842 - INFO - --------------------------------------------------
+2025-05-13 09:32:01,246 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:01,247 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:01,247 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:01,247 - INFO - --------------------------------------------------
+2025-05-13 09:32:01,772 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:01,773 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:01,773 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:01,773 - INFO - --------------------------------------------------
+2025-05-13 09:32:02,257 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:02,257 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:02,259 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:02,260 - INFO - --------------------------------------------------
+2025-05-13 09:32:02,887 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:02,888 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:02,889 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:02,889 - INFO - --------------------------------------------------
+2025-05-13 09:32:03,284 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:03,285 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:03,286 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:03,286 - INFO - --------------------------------------------------
+2025-05-13 09:32:03,681 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:03,681 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:03,682 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:03,682 - INFO - --------------------------------------------------
+2025-05-13 09:32:04,101 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:04,102 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:04,102 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:04,103 - INFO - --------------------------------------------------
+2025-05-13 09:32:04,832 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:04,833 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:04,833 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:04,834 - INFO - --------------------------------------------------
+2025-05-13 09:32:05,347 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:05,348 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:05,348 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:05,349 - INFO - --------------------------------------------------
+2025-05-13 09:32:05,746 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:05,747 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:05,747 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:05,748 - INFO - --------------------------------------------------
+2025-05-13 09:32:06,414 - INFO - New Email: Fwd: Unable to Reset My Password
+2025-05-13 09:32:06,414 - INFO - From: Rithuik Prakash <rithuikprakash12@gmail.com>
+2025-05-13 09:32:06,414 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:06,415 - INFO - --------------------------------------------------
+2025-05-13 09:32:07,205 - INFO - New Email: Security alert
+2025-05-13 09:32:07,206 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:07,206 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:07,207 - INFO - --------------------------------------------------
+2025-05-13 09:32:08,211 - INFO - New Email: Security alert
+2025-05-13 09:32:08,212 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:08,213 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:08,213 - INFO - --------------------------------------------------
+2025-05-13 09:32:08,996 - INFO - New Email: Security alert
+2025-05-13 09:32:08,996 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:08,997 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:08,997 - INFO - --------------------------------------------------
+2025-05-13 09:32:10,367 - INFO - New Email: Security alert
+2025-05-13 09:32:10,368 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:10,369 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:10,369 - INFO - --------------------------------------------------
+2025-05-13 09:32:11,237 - INFO - New Email: 2-Step Verification turned on
+2025-05-13 09:32:11,237 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:11,238 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:11,238 - INFO - --------------------------------------------------
+2025-05-13 09:32:11,849 - INFO - New Email: Security alert
+2025-05-13 09:32:11,850 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:11,852 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:11,852 - INFO - --------------------------------------------------
+2025-05-13 09:32:12,619 - INFO - New Email: Security alert
+2025-05-13 09:32:12,620 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:12,620 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:12,622 - INFO - --------------------------------------------------
+2025-05-13 09:32:13,127 - INFO - New Email: Security alert
+2025-05-13 09:32:13,128 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:13,128 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:13,128 - INFO - --------------------------------------------------
+2025-05-13 09:32:13,736 - INFO - New Email: Your Google Account was recovered successfully
+2025-05-13 09:32:13,736 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:13,737 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:13,738 - INFO - --------------------------------------------------
+2025-05-13 09:32:14,608 - INFO - New Email: Welcome to Gemini
+2025-05-13 09:32:14,608 - INFO - From: Google Gemini <google-gemini-noreply@google.com>
+2025-05-13 09:32:14,609 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:14,609 - INFO - --------------------------------------------------
+2025-05-13 09:32:15,297 - INFO - New Email: Two hackathons. $1.5 million+ on the table. Let’s build.
+2025-05-13 09:32:15,299 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:15,299 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:15,299 - INFO - --------------------------------------------------
+2025-05-13 09:32:16,096 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:32:16,096 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:16,096 - INFO - --------------------------------------------------
+2025-05-13 09:32:16,604 - INFO - New Email: Kick Off the World’s Largest Hackathon with The Chainsmokers + Bolt
+2025-05-13 09:32:16,605 - INFO - From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+2025-05-13 09:32:16,605 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:16,605 - INFO - --------------------------------------------------
+2025-05-13 09:32:17,297 - INFO - New Email: [LeetCode] Confirm E-mail Address
+2025-05-13 09:32:17,297 - INFO - From: LeetCode <no-reply@leetcode.com>
+2025-05-13 09:32:17,298 - INFO - Classification: Ham (Confidence: 99.61%)
+2025-05-13 09:32:17,298 - INFO - --------------------------------------------------
+2025-05-13 09:32:18,191 - INFO - New Email: Science or sports? $275,000+ prizes at upcoming hackathons!
+2025-05-13 09:32:18,191 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:18,191 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:18,192 - INFO - --------------------------------------------------
+2025-05-13 09:32:19,272 - INFO - New Email: $600,000+ in prizes at the upcoming hackathons: Remix AI, build on
+ zero-knowledge or get wildly ambitious!
+2025-05-13 09:32:19,272 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:19,272 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:19,273 - INFO - --------------------------------------------------
+2025-05-13 09:32:20,221 - INFO - New Email: Bolt just got supercharged: Supabase Edge Functions are here
+2025-05-13 09:32:20,221 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:20,221 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:20,222 - INFO - --------------------------------------------------
+2025-05-13 09:32:21,625 - INFO - New Email: LIVE: $1m hackathon website winner
+2025-05-13 09:32:21,626 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:21,626 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:21,626 - INFO - --------------------------------------------------
+2025-05-13 09:32:22,179 - INFO - New Email: Introducing Figma to Bolt
+2025-05-13 09:32:22,179 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:22,179 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:22,179 - INFO - --------------------------------------------------
+2025-05-13 09:32:22,875 - INFO - New Email: Congratulations for your Hackhound 3.0 certificate by Hackhound
+2025-05-13 09:32:22,875 - INFO - From: certificate@givemycertificate.com
+2025-05-13 09:32:22,875 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:22,875 - INFO - --------------------------------------------------
+2025-05-13 09:32:23,688 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:23,688 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:23,688 - INFO - --------------------------------------------------
+2025-05-13 09:32:24,288 - INFO - New Email: Congratulations for your Hackhound 3.0 certificate by Hackhound
+2025-05-13 09:32:24,289 - INFO - From: certificate@givemycertificate.com
+2025-05-13 09:32:24,289 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:24,289 - INFO - --------------------------------------------------
+2025-05-13 09:32:25,133 - INFO - New Email: Build from San Francisco or make your Move from home?
+2025-05-13 09:32:25,133 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:25,134 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:25,134 - INFO - --------------------------------------------------
+2025-05-13 09:32:25,961 - INFO - New Email: How was Hackhound 3.O?
+2025-05-13 09:32:25,962 - INFO - From: Major League Hacking <hi@mlh.io>
+2025-05-13 09:32:25,962 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:25,962 - INFO - --------------------------------------------------
+2025-05-13 09:32:27,122 - INFO - New Email: HackHound 3.O: Good news! pratham is now a part of your team
+2025-05-13 09:32:27,122 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:27,122 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:27,124 - INFO - --------------------------------------------------
+2025-05-13 09:32:27,528 - INFO - New Email: Admit-Card: GATE 2025 Exam Center Updated
+2025-05-13 09:32:27,528 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:27,529 - INFO - Classification: Ham (Confidence: 87.7%)
+2025-05-13 09:32:27,529 - INFO - --------------------------------------------------
+2025-05-13 09:32:28,693 - INFO - From: Major League Hacking <hi@mlh.io>
+2025-05-13 09:32:28,693 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:28,693 - INFO - --------------------------------------------------
+2025-05-13 09:32:29,261 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:29,262 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:29,262 - INFO - --------------------------------------------------
+2025-05-13 09:32:30,258 - INFO - New Email: HackHound 3.O: Good news! Utkarsh is now a part of your team
+2025-05-13 09:32:30,259 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:30,259 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:30,259 - INFO - --------------------------------------------------
+2025-05-13 09:32:31,258 - INFO - New Email: HackHound 3.O: Good news! You’re now a part of team NINZAS
+2025-05-13 09:32:31,258 - INFO - From: Devfolio <hello@devfolio.co>
+2025-05-13 09:32:31,259 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:31,259 - INFO - --------------------------------------------------
+2025-05-13 09:32:32,093 - INFO - New Email: Announcing the Visual Inspector
+2025-05-13 09:32:32,093 - INFO - From: "Eric at StackBlitz" <ericsimons@stackblitz.com>
+2025-05-13 09:32:32,093 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:32,093 - INFO - --------------------------------------------------
+2025-05-13 09:32:33,053 - INFO - New Email: Admit Card: GATE 2025 Available for download
+2025-05-13 09:32:33,054 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:33,054 - INFO - Classification: Ham (Confidence: 90.85%)
+2025-05-13 09:32:33,055 - INFO - --------------------------------------------------
+2025-05-13 09:32:33,889 - INFO - New Email: Annual Reminder about Google Terms and Policies
+2025-05-13 09:32:33,889 - INFO - From: The Google Workspace Team <workspace-noreply@google.com>
+2025-05-13 09:32:33,889 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:33,889 - INFO - --------------------------------------------------
+2025-05-13 09:32:37,866 - INFO - New Email: GATE 2025 update
+2025-05-13 09:32:37,866 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:37,867 - INFO - Classification: Ham (Confidence: 74.19%)
+2025-05-13 09:32:37,867 - INFO - --------------------------------------------------
+2025-05-13 09:32:39,064 - INFO - New Email: Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+
+2025-05-13 09:32:39,064 - INFO - From: YouTube <no-reply@youtube.com>
+2025-05-13 09:32:39,065 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:39,065 - INFO - --------------------------------------------------
+2025-05-13 09:32:39,725 - INFO - New Email: Verify email for your Wallet account
+2025-05-13 09:32:39,725 - INFO - From: noreply@walletbot.net
+2025-05-13 09:32:39,726 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:39,726 - INFO - --------------------------------------------------
+2025-05-13 09:32:40,403 - INFO - New Email: Confirmation instructions
+2025-05-13 09:32:40,403 - INFO - From: StackBlitz <hello@stackblitz.com>
+2025-05-13 09:32:40,404 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:40,404 - INFO - --------------------------------------------------
+2025-05-13 09:32:43,053 - INFO - New Email: Status of your GATE-2025 application
+2025-05-13 09:32:43,053 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:43,054 - INFO - Classification: Ham (Confidence: 88.6%)
+2025-05-13 09:32:43,054 - INFO - --------------------------------------------------
+2025-05-13 09:32:43,461 - INFO - New Email: Status of your GATE-2025 application
+2025-05-13 09:32:43,461 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:43,462 - INFO - Classification: Ham (Confidence: 88.6%)
+2025-05-13 09:32:43,462 - INFO - --------------------------------------------------
+2025-05-13 09:32:44,436 - INFO - New Email: Verify email for your Wallet account
+2025-05-13 09:32:44,436 - INFO - From: noreply@walletbot.net
+2025-05-13 09:32:44,437 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:44,437 - INFO - --------------------------------------------------
+2025-05-13 09:32:46,403 - INFO - New Email: GATE 2025 Enrollment ID
+2025-05-13 09:32:46,404 - INFO - From: GATE 2025 <noreply@gate.iitr.ac.in>
+2025-05-13 09:32:46,404 - INFO - Classification: Ham (Confidence: 96.24%)
+2025-05-13 09:32:46,404 - INFO - --------------------------------------------------
+2025-05-13 09:32:47,636 - INFO - New Email: Welcome to Your EA Account
+2025-05-13 09:32:47,636 - INFO - From: "EA" <EA@e.ea.com>
+2025-05-13 09:32:47,637 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:47,637 - INFO - --------------------------------------------------
+2025-05-13 09:32:48,252 - INFO - New Email: Verification Code For EA - 73089
+2025-05-13 09:32:48,252 - INFO - From: "EA" <EA@e.ea.com>
+2025-05-13 09:32:48,253 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:48,253 - INFO - --------------------------------------------------
+2025-05-13 09:32:48,825 - INFO - New Email: Verify Your Email Address
+2025-05-13 09:32:48,826 - INFO - From: "EA" <EA@e.ea.com>
+2025-05-13 09:32:48,826 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:48,826 - INFO - --------------------------------------------------
+2025-05-13 09:32:49,709 - INFO - New Email: You're in! More games and updates coming soon.
+2025-05-13 09:32:49,709 - INFO - From: "EA" <EA@e.ea.com>
+2025-05-13 09:32:49,710 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:49,710 - INFO - --------------------------------------------------
+2025-05-13 09:32:50,265 - INFO - New Email: New Options to Manage Personalization on Google Play
+2025-05-13 09:32:50,266 - INFO - From: Google Play <googleplay-noreply@google.com>
+2025-05-13 09:32:50,266 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:50,266 - INFO - --------------------------------------------------
+2025-05-13 09:32:50,887 - INFO - New Email: [Famoid]: Your Auth Token
+2025-05-13 09:32:50,888 - INFO - From: Famoid <noreply@famoid.email>
+2025-05-13 09:32:50,888 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:50,889 - INFO - --------------------------------------------------
+2025-05-13 09:32:51,702 - INFO - New Email: Google Maps annual reminder
+2025-05-13 09:32:51,702 - INFO - From: "'Google Maps'" <google-maps-noreply@google.com>
+2025-05-13 09:32:51,702 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:51,702 - INFO - --------------------------------------------------
+2025-05-13 09:32:52,282 - INFO - New Email: Find out more about our updated Terms of Service
+2025-05-13 09:32:52,282 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:52,283 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:52,283 - INFO - --------------------------------------------------
+2025-05-13 09:32:52,972 - INFO - New Email: Your Google Play purchase verification settings
+2025-05-13 09:32:52,972 - INFO - From: Google Play <googleplay-noreply@google.com>
+2025-05-13 09:32:52,972 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:52,973 - INFO - --------------------------------------------------
+2025-05-13 09:32:53,796 - INFO - New Email: Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+
+2025-05-13 09:32:53,797 - INFO - From: YouTube <no-reply@youtube.com>
+2025-05-13 09:32:53,797 - INFO - Classification: Spam (Confidence: 85.0%)
+2025-05-13 09:32:53,797 - INFO - --------------------------------------------------
+2025-05-13 09:32:54,851 - INFO - New Email: Rithuik, welcome to the Google Maps community!
+2025-05-13 09:32:54,851 - INFO - From: Google Local Guides <noreply-local-guides@google.com>
+2025-05-13 09:32:54,852 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:54,852 - INFO - --------------------------------------------------
+2025-05-13 09:32:55,840 - INFO - New Email: Thanks for editing Paroli Illam Devasthanam on the map
+2025-05-13 09:32:55,842 - INFO - From: Google Maps <noreply-maps-issues@google.com>
+2025-05-13 09:32:55,842 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:55,842 - INFO - --------------------------------------------------
+2025-05-13 09:32:56,342 - INFO - New Email: Thanks for editing Paroli Illam Devasthanam on the map
+2025-05-13 09:32:56,343 - INFO - From: Google Maps <noreply-maps-issues@google.com>
+2025-05-13 09:32:56,343 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:56,343 - INFO - --------------------------------------------------
+2025-05-13 09:32:56,938 - INFO - New Email: Security alert
+2025-05-13 09:32:56,939 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:56,939 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:56,939 - INFO - --------------------------------------------------
+2025-05-13 09:32:57,756 - INFO - New Email: Your Google Account was recovered successfully
+2025-05-13 09:32:57,757 - INFO - From: Google <no-reply@accounts.google.com>
+2025-05-13 09:32:57,759 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:57,759 - INFO - --------------------------------------------------
+2025-05-13 09:32:59,026 - INFO - New Email: Rithuik, finish setting up your new Google Account
+2025-05-13 09:32:59,027 - INFO - From: Google Community Team <googlecommunityteam-noreply@google.com>
+2025-05-13 09:32:59,027 - INFO - Classification: Ham (Confidence: 100.0%)
+2025-05-13 09:32:59,028 - INFO - --------------------------------------------------
+2025-05-13 09:38:11,154 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 10:20:26,977 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 10:20:36,990 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 10:20:46,992 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 10:20:56,995 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 10:21:06,997 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 11:28:07,183 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 13:21:11,280 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 15:18:00,058 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed
+2025-05-13 15:18:10,063 - ERROR - Error checking emails: [Errno 11001] getaddrinfo failed

@@ -1,0 +1,54 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card result-card">
+            <div class="card-header text-center">
+                <h2><i class="fas fa-chart-pie me-2"></i>Analysis Result</h2>
+            </div>
+            <div class="card-body">
+                <div class="result-container {% if 'Spam' in result %}spam{% else %}ham{% endif %}">
+                    <div class="result-icon">
+                        {% if 'Spam' in result %}
+                            <i class="fas fa-exclamation-triangle"></i>
+                        {% else %}
+                            <i class="fas fa-check-circle"></i>
+                        {% endif %}
+                    </div>
+                    <div class="result-details">
+                        <h3>{{ result }}</h3>
+                        <div class="progress">
+                            <div class="progress-bar {% if 'Spam' in result %}bg-danger{% else %}bg-success{% endif %}" 
+                                 role="progressbar" 
+                                 style="width: {{ confidence }}%;" 
+                                 aria-valuenow="{{ confidence }}" 
+                                 aria-valuemin="0" 
+                                 aria-valuemax="100">{{ confidence }}%</div>
+                        </div>
+                        <p class="confidence-text">Confidence: {{ confidence }}%</p>
+                        {% if explanation %}
+                        <div class="alert alert-info mt-3">
+                            <i class="fas fa-info-circle me-2"></i>{{ explanation }}
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                
+                <div class="email-preview mt-4">
+                    <h4><i class="fas fa-envelope me-2"></i>Email Content</h4>
+                    <div class="email-content">
+                        {{ email_text }}
+                    </div>
+                </div>
+                
+                <div class="d-grid gap-2 mt-4">
+                    <a href="/" class="btn btn-primary">
+                        <i class="fas fa-arrow-left me-2"></i>Check Another Email
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

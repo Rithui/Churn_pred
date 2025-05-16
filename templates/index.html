@@ -1,0 +1,51 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card main-card">
+            <div class="card-header text-center">
+                <h2><i class="fas fa-envelope me-2"></i>Email Spam Detection</h2>
+                <p class="lead">Check if your email is spam or ham (not spam)</p>
+            </div>
+            <div class="card-body">
+                <form action="/predict" method="post">
+                    <div class="mb-3">
+                        <label for="email_text" class="form-label">Email Content</label>
+                        <textarea class="form-control" id="email_text" name="email_text" rows="10" placeholder="Paste your email content here..." required></textarea>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="fas fa-search me-2"></i>Analyze Email
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        
+        <div class="card mt-4 info-card">
+            <div class="card-header">
+                <h4><i class="fas fa-info-circle me-2"></i>About This Tool</h4>
+            </div>
+            <div class="card-body">
+                <p>This email spam classifier uses machine learning to identify spam emails with high accuracy. The model was trained on thousands of emails to recognize patterns and features common in spam messages.</p>
+                <p>You can also set up automatic email checking by running the <code>email_automation.py</code> script, which will check your inbox every 10 seconds.</p>
+                <div class="features">
+                    <div class="feature">
+                        <i class="fas fa-robot"></i>
+                        <span>Machine Learning</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-clock"></i>
+                        <span>Real-time Analysis</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-sync-alt"></i>
+                        <span>Auto-checking</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
